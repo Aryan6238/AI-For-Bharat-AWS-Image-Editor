@@ -53,5 +53,12 @@ This directory contains the configuration file that connects your application to
 - Check that your API has CORS enabled for your domain
 - Verify the API stage is deployed
 
+## Note
+
+This project was developed as part of an AWS hands-on workshop.
+The repository contains core logic and sample configuration structure.
+AWS resources are not included, as workshop environments are temporary.
+
+
 ## Support
 If you encounter issues, check the browser console for detailed error messages.
