@@ -13,7 +13,7 @@
 // 3. Replace 'REPLACE_WITH_YOUR_REGION' with your AWS region
 //    Example: us-west-2, us-east-1, eu-west-1
 //
-// 4. Replace 'REPLACE_WITH_YOUR_API_URL' with your API Gateway endpoint
+// 4. Replace 'REPLACE_WITH_YOUR_API_URL' with your API Gateway endpoint.
 //    Example: https://abc123def.execute-api.us-west-2.amazonaws.com/prod
 //    Find this in: AWS Console > API Gateway > [Your API] > Stages > [Stage Name]
 
